@@ -1,78 +1,71 @@
-📊 Employee Data Analysis Project
-📌 Overview
+📊 Employees Information Data Analysis – Power BI Project
+📖 Project Description
 
-This project focuses on analyzing employee data to generate meaningful business insights. The dataset contains employee information such as name, age, gender, salary, department, country, and joining date.
+This project focuses on analyzing employee information data to generate meaningful business insights. The dataset includes employee details such as age, gender, salary, department, country, and joining date.
 
-The goal of this project is to practice data analysis, data cleaning, and data visualization techniques.
+Using Power BI, interactive dashboards were created to visualize workforce trends and salary analysis.
+
+🎯 Project Objective
+
+The main objective of this project is to:
+
+Analyze employee distribution across departments and countries
+
+Understand salary patterns and averages
+
+Examine gender distribution within the organization
+
+Identify hiring trends based on joining dates
+
+🛠 Tools & Technologies Used
+
+Power BI (Dashboard & Visualization)
+
+Excel / CSV (Dataset)
+
+GitHub (Project Hosting)
 
 📂 Dataset Information
 
-The dataset includes the following columns:
+The dataset contains the following columns:
 
-Name – Employee name
+Employee Name
 
-Age – Employee age
+Age
 
-Gender – Male/Female
+Gender
 
-Salary – Employee salary
+Salary
 
-Department – Department name
+Department
 
-Country – Employee work location
+Country
 
-Joining Date – Date of joining
+Joining Date
 
-🎯 Project Objectives
+📈 Key Insights from Dashboard
 
-Analyze salary distribution across departments
+Department-wise employee count
 
-Identify gender distribution in the organization
+Average salary by department
 
-Perform age group analysis
+Gender distribution analysis
 
-Analyze country-wise employee count
+Country-wise workforce distribution
 
-Study employee hiring trends based on joining date
+Hiring trends over time
 
-🛠 Tools Used
+🚀 How to View the Project
 
-Excel / Power BI / SQL / Python (Choose the tool you used)
+Download the .pbix file from this repository
 
-Data Cleaning
+Open it using Power BI Desktop
 
-Data Visualization
+Explore the interactive dashboard
 
-Basic Statistical Analysis
+(If published online, add your Power BI report link here.)
 
-📊 Analysis Performed
+👩‍💻 Author
 
-Department-wise salary comparison
-
-Gender ratio analysis
-
-Age distribution analysis
-
-Country-wise employee distribution
-
-Monthly/Yearly hiring trend analysis
-
-📈 Key Insights
-
-Identified departments with highest and lowest average salaries
-
-Observed gender distribution patterns
-
-Found hiring trends over time
-
-Compared employee distribution across countries
-
-🚀 How to Use
-
-Download the dataset file.
-
-Open it using Excel / Power BI / Python / SQL.
-
-Perform analysis and create visualizations.
-
-Modify or extend the analysis for further insights.
+Akanksha Panduga
+Aspiring Data Analyst
